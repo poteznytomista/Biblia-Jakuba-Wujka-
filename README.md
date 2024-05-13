@@ -7,5 +7,5 @@
 
 ## **Postęp:**
 stan na 13.05 AD 2024:
-- Księga Rodzaju: 12/50
+- Księga Rodzaju: 15/50
 - List do Filemona 1/1
