@@ -11,7 +11,7 @@ stan na 06.06 AD 2024:
 - List do Filemona: 1/1
 
 
-## *Księgi oprócz 73 kanonicznych:**
+## **Księgi oprócz 73 kanonicznych:**
 - 3 Ezdrasza
 - Modlitwa Manassesa
 - 3 Machabejska
