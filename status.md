@@ -2,11 +2,11 @@
 
 ## Stary Testament
 ### Pięcioksiąg
-Genesis
-Exodus
-Leviticus
-Numeri
-Deuteronomium
+-Genesis
+-Exodus
+-Leviticus
+-Numeri
+-Deuteronomium
 ### Historyczne
 Jozue
 Sędziowie
