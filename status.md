@@ -2,9 +2,9 @@
 
 ## Stary Testament
 ### Pięcioksiąg
-Genesis
+Genesis [50/50]
 
-Exodus
+Exodus [40/40]
 
 Leviticus
 
@@ -95,7 +95,7 @@ Zacharyasz
 Malachyasz
 ## Nowy Testament
 ### Ewangelie
-Według Mateusza
+Według Mateusza [28/28]
 
 Według Marka
 
