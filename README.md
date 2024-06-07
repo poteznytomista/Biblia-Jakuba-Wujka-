@@ -5,9 +5,9 @@
 - udostępnienie niektórych apokryfów i pism okołobiblijnych (np. Didache) w formie plain text
 - przygotowanie dobrze działającej strony internetowej z dostępnymi powyższymi tekstami
 ## **Postęp:**
-stan na 06.06 AD 2024:
-- Księga Rodzaju: 19/50
-- Księga Wyjścia 2/40
+stan na 07.06 AD 2024:
+- Księga Rodzaju: 50/50
+- Księga Wyjścia 3/40
 - List do Filemona: 1/1
 
 
