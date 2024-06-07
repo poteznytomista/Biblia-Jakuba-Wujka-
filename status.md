@@ -3,9 +3,13 @@
 ## Stary Testament
 ### Pięcioksiąg
 -Genesis
+
 -Exodus
+
 -Leviticus
+
 -Numeri
+
 -Deuteronomium
 ### Historyczne
 Jozue
