@@ -4,12 +4,6 @@
 - udostępnienie całości Pisma Świętego w przekładzie x. Jakuba Wujka (transkrypcja B) w formie plain text
 - udostępnienie niektórych apokryfów i pism okołobiblijnych (np. Didache) w formie plain text
 - przygotowanie dobrze działającej strony internetowej z dostępnymi powyższymi tekstami
-## **Postęp:**
-stan na 07.06 AD 2024:
-- Księga Rodzaju: 50/50
-- Księga Wyjścia 3/40
-- List do Filemona: 1/1
-
 
 ## **Księgi oprócz 73 kanonicznych:**
 - 3 Ezdrasza
@@ -24,4 +18,6 @@ stan na 07.06 AD 2024:
 - Ewangelia Hebrajczyków
 - Protoewangelia Jakuba
 - Didache
+
+### Postęp prac opisany w pliku status.md
 ## "Niebo i ziemia przeminą, ale słowa moje nie przeminą." Mateusza 24:35
