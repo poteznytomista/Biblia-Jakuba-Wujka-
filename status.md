@@ -6,7 +6,7 @@ Genesis [50/50]
 
 Exodus [40/40]
 
-Leviticus
+Leviticus [03/27]
 
 Numeri
 
@@ -97,7 +97,7 @@ Malachyasz
 ### Ewangelie
 Według Mateusza [28/28]
 
-Według Marka
+Według Marka [16/16]
 
 Według Łukasza
 
