@@ -99,9 +99,9 @@ Według Mateusza [28/28]
 
 Według Marka [16/16]
 
-Według Łukasza
+Według Łukasza [24/24]
 
-Według Jana
+Według Jana [21/21]
 ### Dzieje
 Dzieje Apostolskie
 ### Listy Pawłowe
@@ -147,4 +147,4 @@ S. Jana Trzeci
 
 S. Judasa Apostoła
 ### Apokalipsa
-Objawienie Jana S.
+Objawienie Jana S. [22/22]
