@@ -46,7 +46,7 @@ Machabejskie Wtóre
 ### Mądrościowe
 Job
 
-Księgi Psalmów
+Księgi Psalmów [11/150]
 
 Przypowieści Salomonowe
 
@@ -129,7 +129,7 @@ Do Tymotheusza Wtóry
 
 Do Tytusa
 
-Do Philemona
+Do Philemona [1/1]
 
 Do Żydów
 ### Listy Powszechne
