@@ -103,7 +103,7 @@ Według Łukasza [24/24]
 
 Według Jana [21/21]
 ### Dzieje
-Dzieje Apostolskie
+Dzieje Apostolskie [28/28]
 ### Listy Pawłowe
 Do Rzymian
 
