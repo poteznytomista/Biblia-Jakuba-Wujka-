@@ -2,27 +2,27 @@
 
 ## Stary Testament
 ### Pięcioksiąg
-Genesis [50/50] ✅
+Genesis ✅
 
-Exodus [40/40] ✅
+Exodus ✅
 
-Leviticus [27/27] ✅
+Leviticus ✅
 
-Numeri [36/36] ✅
+Numeri ✅
 
-Deuteronomium [34/34] ✅
+Deuteronomium ✅
 ### Historyczne
-Jozue [24/24] ✅
+Jozue ✅
 
-Sędziowie
+Sędziowie ✅
 
-Ruth
+Ruth ✅
 
-Królewskie Pierwsze
+Królewskie Pierwsze ✅
 
-Królewskie Wtóre
+Królewskie Wtóre ✅
 
-Królewskie Trzecie
+Królewskie Trzecie ✅
 
 Królewskie Czwarte
 
@@ -95,17 +95,17 @@ Zacharyasz
 Malachyasz
 ## Nowy Testament
 ### Ewangelie
-Według Mateusza [28/28] ✅
+Według Mateusza ✅
 
-Według Marka [16/16] ✅
+Według Marka ✅
 
-Według Łukasza [24/24] ✅
+Według Łukasza ✅
 
-Według Jana [21/21] ✅
+Według Jana ✅
 ### Dzieje
-Dzieje Apostolskie [28/28] ✅
+Dzieje Apostolskie ✅
 ### Listy Pawłowe
-Do Rzymian [16/16] ✅
+Do Rzymian ✅
 
 Do Korynthów Pierwszy
 
@@ -129,15 +129,15 @@ Do Tymotheusza Wtóry
 
 Do Tytusa
 
-Do Philemona [1/1] ✅
+Do Philemona ✅
 
 Do Żydów
 ### Listy Powszechne
-S. Jakóba Apostoła [5/5] ✅
+S. Jakóba Apostoła ✅
 
-S. Piotra Pierwszy [5/5] ✅
+S. Piotra Pierwszy ✅
 
-S. Piotra Wtóry [3/3] ✅
+S. Piotra Wtóry ✅
 
 S. Jana Pierwszy
 
@@ -147,4 +147,4 @@ S. Jana Trzeci
 
 S. Judasa Apostoła
 ### Apokalipsa
-Objawienie Jana S. [22/22] ✅
+Objawienie Jana S. ✅
