@@ -2,17 +2,17 @@
 
 ## Stary Testament
 ### Pięcioksiąg
-Genesis [50/50]
+Genesis [50/50] ✅
 
-Exodus [40/40]
+Exodus [40/40] ✅
 
-Leviticus [27/27]
+Leviticus [27/27] ✅
 
-Numeri [36/36]
+Numeri [36/36] ✅
 
-Deuteronomium [34/34]
+Deuteronomium [34/34] ✅
 ### Historyczne
-Jozue [24/24]
+Jozue [24/24] ✅
 
 Sędziowie
 
@@ -95,17 +95,17 @@ Zacharyasz
 Malachyasz
 ## Nowy Testament
 ### Ewangelie
-Według Mateusza [28/28]
+Według Mateusza [28/28] ✅
 
-Według Marka [16/16]
+Według Marka [16/16] ✅
 
-Według Łukasza [24/24]
+Według Łukasza [24/24] ✅
 
-Według Jana [21/21]
+Według Jana [21/21] ✅
 ### Dzieje
-Dzieje Apostolskie [28/28]
+Dzieje Apostolskie [28/28] ✅
 ### Listy Pawłowe
-Do Rzymian [16/16]
+Do Rzymian [16/16] ✅
 
 Do Korynthów Pierwszy
 
@@ -129,15 +129,15 @@ Do Tymotheusza Wtóry
 
 Do Tytusa
 
-Do Philemona [1/1]
+Do Philemona [1/1] ✅
 
 Do Żydów
 ### Listy Powszechne
-S. Jakóba Apostoła [5/5]
+S. Jakóba Apostoła [5/5] ✅
 
-S. Piotra Pierwszy [5/5]
+S. Piotra Pierwszy [5/5] ✅
 
-S. Piotra Wtóry [3/3]
+S. Piotra Wtóry [3/3] ✅
 
 S. Jana Pierwszy
 
@@ -147,4 +147,4 @@ S. Jana Trzeci
 
 S. Judasa Apostoła
 ### Apokalipsa
-Objawienie Jana S. [22/22]
+Objawienie Jana S. [22/22] ✅
