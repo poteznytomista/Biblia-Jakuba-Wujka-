@@ -6,13 +6,13 @@ Genesis [50/50]
 
 Exodus [40/40]
 
-Leviticus [03/27]
+Leviticus [27/27]
 
-Numeri
+Numeri [36/36]
 
-Deuteronomium
+Deuteronomium [34/34]
 ### Historyczne
-Jozue
+Jozue [24/24]
 
 Sędziowie
 
@@ -105,7 +105,7 @@ Według Jana [21/21]
 ### Dzieje
 Dzieje Apostolskie [28/28]
 ### Listy Pawłowe
-Do Rzymian
+Do Rzymian [16/16]
 
 Do Korynthów Pierwszy
 
@@ -133,11 +133,11 @@ Do Philemona [1/1]
 
 Do Żydów
 ### Listy Powszechne
-S. Jakóba Apostoła
+S. Jakóba Apostoła [5/5]
 
-S. Piotra Pierwszy
+S. Piotra Pierwszy [5/5]
 
-S. Piotra Wtóry
+S. Piotra Wtóry [3/3]
 
 S. Jana Pierwszy
 
