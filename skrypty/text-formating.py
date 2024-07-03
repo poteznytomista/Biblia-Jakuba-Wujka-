@@ -36,18 +36,22 @@ def process_text(text):
     
     return formatted_text
 
+def save_chapters_to_files(text):
+    # Process the text
+    formatted_text = process_text(text)
+    
+    # Split the formatted text into chapters using 5 empty lines as a delimiter
+    chapters = re.split(r'\n{5}', formatted_text)
+    
+    # Save each chapter into a separate file
+    for i, chapter in enumerate(chapters):
+        file_name = f"{i+1:02}.txt"  # Name files as 01, 02, 03, etc.
+        with open(file_name, 'w', encoding='utf-8') as file:
+            file.write(chapter.strip())
+
 # Example usage
 text = """
 
 """
 
-formatted_text = process_text(text)
-print(formatted_text)
-
-
-
-
-
-
-
-
+save_chapters_to_files(text)
