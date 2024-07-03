@@ -20,4 +20,9 @@
 - Didache
 
 ### Postęp prac opisany w pliku status.md
+
+## **Znane błędy:**
+- nie działają Psalmy
+- należy sprawdzić ewentualne literówki, prace sprawdzające ruszą po przepisaniu całej Biblii
+
 ## "Niebo i ziemia przeminą, ale słowa moje nie przeminą." Mateusza 24:35
