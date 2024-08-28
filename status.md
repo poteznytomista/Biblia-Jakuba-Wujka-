@@ -107,13 +107,13 @@ Dzieje Apostolskie ✅
 ### Listy Pawłowe
 Do Rzymian ✅
 
-Do Korynthów Pierwszy
+Do Korynthów Pierwszy ✅
 
-Do Korynthów Wtóry
+Do Korynthów Wtóry ✅
 
-Do Galatów
+Do Galatów ✅
 
-Do Ephezów
+Do Ephezów ✅
 
 Do Philippensów
 
