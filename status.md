@@ -46,7 +46,7 @@ Machabejskie Wtóre
 ### Mądrościowe
 Job
 
-Księgi Psalmów [11/150]
+Księgi Psalmów ✅ [niektóre Psalmy mają numerację do poprawki]
 
 Przypowieści Salomonowe
 
