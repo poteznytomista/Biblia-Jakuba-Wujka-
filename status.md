@@ -46,7 +46,7 @@ Machabejskie Wtóre
 ### Mądrościowe
 Job
 
-Księgi Psalmów ✅ [niektóre Psalmy mają numerację do poprawki]
+Księgi Psalmów ✅ [niektóre Psalmy mają numerację wersetów do poprawki]
 
 Przypowieści Salomonowe
 
