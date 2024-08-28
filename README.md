@@ -6,17 +6,16 @@
 - przygotowanie dobrze działającej strony internetowej z dostępnymi powyższymi tekstami
 
 ## **Księgi oprócz 73 kanonicznych:**
-- 3 Ezdrasza
+- Ezdraszowe Trzecie
+- Ezdraszowe Czwarte
 - Modlitwa Manassesa
-- 3 Machabejska
-- 4 Machabejska
+- Machabejskie Trzecie
+- Machabejskie Czwarte
 - Psalmy Salomona
 - Ody
 - Księga Jubileuszów
 - Księga Henocha
-- psalmy syryjskie (151-155)
-- Ewangelia Hebrajczyków
-- Protoewangelia Jakuba
+- Psalmy 151-155
 - Didache
 
 ### Postęp prac opisany w pliku status.md
