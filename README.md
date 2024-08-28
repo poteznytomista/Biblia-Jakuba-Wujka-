@@ -21,7 +21,7 @@
 ### Postęp prac opisany w pliku status.md
 
 ## **Znane błędy:**
-- nie działają Psalmy
+- niektóre Psalmy mają numerację wersetów do poprawki
 - w wyszukiwarce poszczególnych wersetów nie działają księgi z nazwami > 1 wyraz
 - należy sprawdzić ewentualne literówki, prace sprawdzające ruszą po przepisaniu całej Biblii
 
