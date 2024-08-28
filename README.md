@@ -22,6 +22,7 @@
 
 ## **Znane błędy:**
 - nie działają Psalmy
+- w wyszukiwarce poszczególnych wersetów nie działają księgi z nazwami > 1 wyraz
 - należy sprawdzić ewentualne literówki, prace sprawdzające ruszą po przepisaniu całej Biblii
 
 ## "Niebo i ziemia przeminą, ale słowa moje nie przeminą." Mateusza 24:35
