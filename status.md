@@ -115,19 +115,19 @@ Do Galatów ✅
 
 Do Ephezów ✅
 
-Do Philippensów
+Do Philippensów ✅
 
-Do Kolossan
+Do Kolossan ✅
 
-Do Thessaloniczan Pierwszy
+Do Thessaloniczan Pierwszy ✅
 
-Do Thessaloniczan Wtóry
+Do Thessaloniczan Wtóry ✅
 
-Do Tymotheusza Pierwszy
+Do Tymotheusza Pierwszy ✅
 
-Do Tymotheusza Wtóry
+Do Tymotheusza Wtóry ✅
 
-Do Tytusa
+Do Tytusa ✅
 
 Do Philemona ✅
 
@@ -139,12 +139,12 @@ S. Piotra Pierwszy ✅
 
 S. Piotra Wtóry ✅
 
-S. Jana Pierwszy
+S. Jana Pierwszy ✅
 
-S. Jana Wtóry
+S. Jana Wtóry ✅
 
-S. Jana Trzeci
+S. Jana Trzeci ✅
 
-S. Judasa Apostoła
+S. Judasa Apostoła ✅
 ### Apokalipsa
 Objawienie Jana S. ✅
