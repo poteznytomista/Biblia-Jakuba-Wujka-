@@ -24,7 +24,7 @@ Królewskie Wtóre ✅
 
 Królewskie Trzecie ✅
 
-Królewskie Czwarte
+Królewskie Czwarte ✅
 
 Paralipomenon Pierwsze
 
