@@ -131,7 +131,7 @@ Do Tytusa ✅
 
 Do Philemona ✅
 
-Do Żydów
+Do Żydów ✅
 ### Listy Powszechne
 S. Jakóba Apostoła ✅
 
