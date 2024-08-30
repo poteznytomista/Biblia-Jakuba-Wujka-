@@ -26,13 +26,13 @@ Królewskie Trzecie ✅
 
 Królewskie Czwarte ✅
 
-Paralipomenon Pierwsze
+Paralipomenon Pierwsze ✅
 
-Paralipomenon Wtóre
+Paralipomenon Wtóre ✅
 
-Ezdraszowe Pierwsze
+Ezdraszowe Pierwsze ✅
 
-Ezdraszowe Wtóre
+Ezdraszowe Wtóre ✅
 
 Tobiasz
 
@@ -44,15 +44,15 @@ Machabejskie Pierwsze
 
 Machabejskie Wtóre
 ### Mądrościowe
-Job
+Job ✅
 
 Księgi Psalmów ✅ [niektóre Psalmy mają numerację wersetów do poprawki]
 
-Przypowieści Salomonowe
+Przypowieści Salomonowe ✅
 
-Ekklesiastes
+Ekklesiastes ✅
 
-Pieśń nad Pieśniami
+Pieśń nad Pieśniami ✅
 
 Księgi Madrości
 
