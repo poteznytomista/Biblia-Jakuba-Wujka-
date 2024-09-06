@@ -13,4 +13,5 @@
 >- wyszukiwarka wersetów
 >- wyszukiwarka całych rozdziałów
 >- PÓŻNIEJ: Komentarz św. Tomasza z Akwinu na Listy Pawłowe i inne księgi
+
 >Status: w trakcie pracy
